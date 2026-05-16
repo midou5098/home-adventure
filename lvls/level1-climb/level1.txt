@@ -1,0 +1,30 @@
+; level1.txt
+; One line per floor, bottom floor first (floor 0), climbing upward.
+; Each value is the X position (pixels) of the gap center.
+; Gap width is fixed at 72px (about 2.5 player widths).
+; Screen width = 800. Keep gap centers between 60 and 740.
+; ─────────────────────────────────────────────────────────
+400
+150
+620
+300
+500
+200
+680
+350
+120
+450
+250
+600
+380
+180
+560
+320
+640
+220
+480
+140
+520
+370
+660
+290

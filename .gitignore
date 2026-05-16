@@ -1,0 +1,29 @@
+# Build outputs
+*.o
+*.exe
+/game
+**/prot
+**/prot_test
+**/option_menu
+**/merged
+**/space_invaders
+**/minesweeper
+**/puzzle_game
+**/tetris
+**/sdlversionshop
+/server/homeadventure-online-server
+/tests/game_progress_test
+/tests/options_settings_test
+**/output/
+docs/doxygen/
+
+# Local runtime state
+**/.level_transition.log
+**/settings.dat
+**/global_settings.dat
+**/saves/
+
+# Local assistant/editor files
+.aider*
+**/.claude/
+**/.vscode/

@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['active_0',['active',['../structPlatform.html#a2753821683484c444062d87070f85581',1,'Platform']]],
+  ['afficherbackground_1',['afficherBackground',['../fonctions_8c.html#abcfed6705038e2c43310c9208ce23fb6',1,'afficherBackground(SDL_Renderer *renderer, const Background *bg, const SDL_Rect *viewport, float camera_x, float camera_y):&#160;fonctions.c'],['../headers_8h.html#abcfed6705038e2c43310c9208ce23fb6',1,'afficherBackground(SDL_Renderer *renderer, const Background *bg, const SDL_Rect *viewport, float camera_x, float camera_y):&#160;fonctions.c']]],
+  ['affichercouche_2',['afficherCouche',['../fonctions_8c.html#aba2c18e2b22453fe743bb795cf39503f',1,'fonctions.c']]],
+  ['afficherplateformes_3',['afficherPlateformes',['../fonctions_8c.html#ae31e4de3f4eaa1878d585bf47f4bcf94',1,'afficherPlateformes(SDL_Renderer *renderer, const Platform platforms[], int count, const SDL_Rect *viewport, float camera_x, float camera_y):&#160;fonctions.c'],['../headers_8h.html#ae31e4de3f4eaa1878d585bf47f4bcf94',1,'afficherPlateformes(SDL_Renderer *renderer, const Platform platforms[], int count, const SDL_Rect *viewport, float camera_x, float camera_y):&#160;fonctions.c']]],
+  ['afficherplayer_4',['afficherPlayer',['../fonctions_8c.html#a45bb6a4dd149cfd122f69eb6ca2d9c0b',1,'afficherPlayer(SDL_Renderer *renderer, const Player *player, const SDL_Rect *viewport, float camera_x, float camera_y):&#160;fonctions.c'],['../headers_8h.html#a45bb6a4dd149cfd122f69eb6ca2d9c0b',1,'afficherPlayer(SDL_Renderer *renderer, const Player *player, const SDL_Rect *viewport, float camera_x, float camera_y):&#160;fonctions.c']]]
+];
