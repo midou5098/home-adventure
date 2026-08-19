@@ -182,19 +182,6 @@ PORT=9091 go run .
 
 Then start `./game` on both machines, choose **Online Mode**, and host or join using the room code. For local testing, keep both machines on the same LAN and make sure the selected port is reachable over TCP and UDP.
 
-## Saves And Scores
-
-Runtime files live in `saves/`:
-
-| File | Purpose |
-| --- | --- |
-| `saves/last_game.csv` | generic last-game progress |
-| `saves/last_game_solo.csv` | solo resume checkpoint |
-| `saves/last_game_duo.csv` | duo resume checkpoint |
-| `saves/best_score.csv` | best score record |
-| `saves/leaderboard.txt` | leaderboard entries |
-
-Settings are stored in small binary files such as `settings.dat` and `lvls/global_settings.dat`.
 
 ## Camera Notes
 
