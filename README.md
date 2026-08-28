@@ -62,7 +62,6 @@ Useful runtime keys:
 ## Tech Stack
 
 | Area | Technology |
-| --- | --- |
 | Game runtime | C, SDL2, SDL2_image, SDL2_ttf, SDL2_mixer |
 | Online relay | Go TCP/UDP server |
 | Face capture | C, SDL2, V4L2, libjpeg, Python |
